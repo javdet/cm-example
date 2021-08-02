@@ -1,0 +1,2 @@
+---
+nginx_client_body_timeout: 70

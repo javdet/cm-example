@@ -1,0 +1,7 @@
+---
+# defaults file for nginx
+nginx_worker_connections: 1024
+nginx_keepalive_timeout: 65
+nginx_send_timeout: 65
+nginx_client_header_timeout: 15
+nginx_client_body_timeout: 65
